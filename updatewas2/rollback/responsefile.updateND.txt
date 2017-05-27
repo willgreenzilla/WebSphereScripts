@@ -1,0 +1,5 @@
+-W backup.package="7.0.0-WS-WAS-AixPPC64-FP0000043.pak"
+-W product.location="/usr/IBM/WebSphere/WASND/AppServer"
+-OPT disableNonBlockingPrereqChecking="true"
+-OPT rootUserHasRunSlibcleanCommandSuccessfully="true"
+-W update.type="uninstall"
